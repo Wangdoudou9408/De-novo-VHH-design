@@ -1,0 +1,5 @@
+numpy>=1.24
+scipy>=1.10
+biopython>=1.81
+# optional: CDR/FR-aware charge optimization
+# anarci
